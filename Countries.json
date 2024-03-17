@@ -42,7 +42,7 @@
     "arcs":[[-200,-214,233,234]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Venezuela"},"id":"862"},{
     "arcs":[[-201,-235,235,236]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Guyana"},"id":"328"},{
     "arcs":[[-202,-237,237,238]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Suriname"},"id":"740"},{
-    "arcs":[[[-203,-239,239]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"France"},"id":"250"},{
+    "arcs":[[[-203,-239,239]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"France"},"id":"250"},{
     "arcs":[[-208,249,-210]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Ecuador"},"id":"218"},{
     "arcs":[[251]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Jamaica"},"id":"388"},{
     "arcs":[[252]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Cuba"},"id":"192"},{
