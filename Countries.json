@@ -5,7 +5,7 @@
     "arcs":[[3,2,3,4,5,6,7,8,9,10,11]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Tanzania"},"id":"834"},{
     "arcs":[[12,13,14,15]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"W. Sahara"},"id":"732"},{
     "arcs":[[[16,17,18,19]],[[20]],[[21]],[[22]],[[23]],[[24]],[[25]],[[26]],[[27]],[[28]],[[29]],[[30]],[[31]],[[32]],[[33]],[[34]],[[35]],[[36]],[[37]],[[38]],[[39]],[[40]],[[41]],[[42]],[[43]],[[44]],[[45]],[[46]],[[47]],[[48]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"Canada"},"id":"124"},{
-    "arcs":[[[[-20,49,50,51]],[[52]],[[53]],[[54]],[[55]],[[56]],[[57]],[[58]],[[-18,59]],[[60]]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States"},"id":"840"},{
+    "arcs":[[[[-20,49,50,51]],[[52]],[[53]],[[54]],[[55]],[[56]],[[57]],[[58]],[[-18,59]],[[60]]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States of America"},"id":"840"},{
     "arcs":[[61,62,63,64,65,66]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Kazakhstan"},"id":"398"},{
     "arcs":[[-64,67,68,69,70]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Uzbekistan"},"id":"860"},{
     "arcs":[[[71,72]],[[73]],[[74]],[[75]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Papua New Guinea"},"id":"598"},{
