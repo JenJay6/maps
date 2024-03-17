@@ -72,7 +72,7 @@
     "arcs":[[-7,322,-320]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Malawi"},"id":"454"},{
     "arcs":[[-6,323,-187,324,-185,-256,-321,-323]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Mozambique"},"id":"508"},{
     "arcs":[[-186,-325]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"eSwatini"},"id":"748"},{
-    "arcs":[[[-107,325,-314]],[[-105,-322,-260,326]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Angola"},"id":"024"},{
+    "arcs":[[[-107,325,-314]],[[-105,-322,-260,326]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Angola"},"id":"024"},{
     "arcs":[[-10,-113,327]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Burundi"},"id":"108"},{
     "arcs":[[328,329,330,331,332,333,334,335]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Israel"},"id":"376"},{
     "arcs":[[-335,336,337]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Lebanon"},"id":"422"},{
