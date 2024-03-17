@@ -127,7 +127,7 @@
     "arcs":[[-457,493,494,495,496,497]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Croatia"},"id":"191"},{
     "arcs":[[-451,498,-239,-470]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Switzerland"},"id":"756"},{
     "arcs":[[-471,-245,499]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Luxembourg"},"id":"442"},{
-    "arcs":[[-472,-500,-244,500,501]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Belgium"},"id":"056"},
+    "arcs":[[-472,-500,-244,500,501]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Belgium"},"id":"056"},{
     "arcs":[[-473,-502,502]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Netherlands"},"id":"528"},{
     "arcs":[[503,504]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Portugal"},"id":"620"},{
     "arcs":[[-504,505,-242,506]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Spain"},"id":"724"},{
