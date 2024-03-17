@@ -159,7 +159,7 @@
     "arcs":[[-346,-362,-356,558,-354,559,-352,-365,-558,560]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Saudi Arabia"},"id":"682"},{
     "arcs":[[561,562]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"N. Cyprus"}},{
     "arcs":[[-563,563]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Cyprus"},"id":"196"},{
-    "arcs":[[-341,-15,564]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Morocco"},"id":"504"},
+    "arcs":[[-341,-15,564]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Morocco"},"id":"504"},{
     "arcs":[[-124,565,566,-329,567]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Egypt"},"id":"818"},{
     "arcs":[[-123,-132,-283,-343,-340,568,-566]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Libya"},"id":"434"},{
     "arcs":[[-114,-119,569,-127,-553,570,571]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Ethiopia"},"id":"231"},{
