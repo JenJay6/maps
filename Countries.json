@@ -173,4 +173,4 @@
     "arcs":[[-495,587,-500,-583,-587,588]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Montenegro"},"id":"499"},{
     "arcs":[[-496,-589,-586,-584]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Kosovo"}},{
     "arcs":[[589]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Trinidad and Tobago"},"id":"780"},{
-    "arcs":[[-110,-313,-129,-574,-119,-581]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"S. Sudan"},"id":"728"}]}}}
+    "arcs":[[-110,-313,-129,-574,-119,-581]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"S. Sudan"},"id":"728"}]}}
