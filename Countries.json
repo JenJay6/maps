@@ -169,9 +169,9 @@
     "arcs":[[-12,579,-111,580,-118]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Uganda"}},{
     "arcs":[[-11,-328,-112,-580]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Rwanda"}},{
     "arcs":[[-499,581,582]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Bosnia and Herz."}},{
-    "arcs":[[-484,-490,-497,583,584]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Macedonia"}},{
+    "arcs":[[-484,-490,-497,583,584]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Macedonia"}},{
     "arcs":[[-460,-467,-485,-585,585,586,-582,-498]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Serbia"}},{
     "arcs":[[-495,587,-500,-583,-587,588]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Montenegro"}},{
-    "arcs":[[-496,-589,-586,-584]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Kosovo"}},{
+    "arcs":[[-496,-589,-586,-584]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Kosovo"}},{
     "arcs":[[589]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Trinidad and Tobago"}},{
     "arcs":[[-110,-313,-129,-574,-119,-581]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"S. Sudan"}}]}}}
