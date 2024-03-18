@@ -54,4 +54,178 @@
   "arcs":[[-272,-341,-396,-345,-145]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Nevada"}},{
   "arcs":[[396,-326,-189,-334]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Vermont"}},{
   "arcs":[[[397]],[[398]],[[399]],[[400]],[[401]],[[402]],[[403]],[[-262,-321,404,-233]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Louisiana"}},{
-  "arcs":[[[-192,405]],[[406]],[[407]],[[408]],[[-240,-194,409]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Rhode Island"}}]}}}
+  "arcs":[[[-192,405]],[[406]],[[407]],[[408]],[[-240,-194,409]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Rhode Island"}},"arcs":[[[0]],[[1]],[[2]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Fiji"}},{
+    "arcs":[[3,4,5,6,7,8,9,10,11]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Tanzania"}},{
+    "arcs":[[12,13,14,15]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"W. Sahara"}},{
+    "arcs":[[[16,17,18,19]],[[20]],[[21]],[[22]],[[23]],[[24]],[[25]],[[26]],[[27]],[[28]],[[29]],[[30]],[[31]],[[32]],[[33]],[[34]],[[35]],[[36]],[[37]],[[38]],[[39]],[[40]],[[41]],[[42]],[[43]],[[44]],[[45]],[[46]],[[47]],[[48]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"Canada"}},{
+    "arcs":[[[-20,49,50,51]],[[52]],[[53]],[[54]],[[55]],[[56]],[[57]],[[58]],[[-18,59]],[[60]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States"}},{
+    "arcs":[[61,62,63,64,65,66]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Kazakhstan"}},{
+    "arcs":[[-64,67,68,69,70]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Uzbekistan"}},{
+    "arcs":[[[71,72]],[[73]],[[74]],[[75]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Papua New Guinea"}},{
+    "arcs":[[[-73,76]],[[77,78]],[[79]],[[80,81]],[[82]],[[83]],[[84]],[[85]],[[86]],[[87]],[[88]],[[89]],[[90]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Indonesia"}},{
+    "arcs":[[[91,92]],[[93,94,95,96,97,98]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Argentina"}},{
+    "arcs":[[[-93,99]],[[100,-96,101,102]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Chile"}},{
+    "arcs":[[-9,103,104,105,106,107,108,109,110,111,112]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Dem. Rep. Congo"}},{
+    "arcs":[[113,114,115,116]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Somalia"}},{
+    "arcs":[[-4,117,118,119,-114,120]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Kenya"}},{
+    "arcs":[[121,122,123,124,125,126,127,128]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Sudan"}},{
+    "arcs":[[-123,129,130,131,132]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Chad"}},{
+    "arcs":[[133,134]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Haiti"}},{
+    "arcs":[[-134,135]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Dominican Rep."}},{
+    "arcs":[[[136]],[[137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,-67]],[[153]],[[154]],[[155]],[[156]],[[157]],[[158]],[[159,160,161]],[[162]],[[163]],[[164]],[[165]],[[166,167]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Russia"}},{
+    "arcs":[[[168]],[[169]],[[170]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Bahamas"}},{
+    "arcs":[[171]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Falkland Is."}},{
+    "arcs":[[[172]],[[-148,173,174,175]],[[176]],[[177]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"Norway"}},{
+    "arcs":[[178]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Greenland"}},{
+    "arcs":[[180,-78]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Timor-Leste"}},{
+    "arcs":[[181,182,183,184,185,186,187],[188]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"South Africa"}},{
+    "arcs":[[-189]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Lesotho"}},{
+    "arcs":[[-51,189,190,191,192]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Mexico"}},{
+    "arcs":[[193,194,-94]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Uruguay"}},{
+    "arcs":[[-194,-99,195,196,197,198,199,200,201,202,203]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Brazil"}},{
+    "arcs":[[-197,204,-97,-101,205]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Bolivia"}},{
+    "arcs":[[-198,-206,-103,206,207,208]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Peru"}},{
+    "arcs":[[-199,-209,209,210,211,212,213]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Colombia"}},{
+    "arcs":[[-212,214,215,216]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Panama"}},{
+    "arcs":[[-216,217,218,219]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Costa Rica"}},{
+    "arcs":[[-219,220,221,222]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Nicaragua"}},{
+    "arcs":[[-222,223,224,225,226]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Honduras"}},{
+    "arcs":[[-225,227,228]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"El Salvador"}},{
+    "arcs":[[-192,229,230,-226,-229,231]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Guatemala"}},{
+    "arcs":[[-191,232,-230]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Belize"}},{
+    "arcs":[[-200,-214,233,234]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Venezuela"}},{
+    "arcs":[[-201,-235,235,236]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Guyana"}},{
+    "arcs":[[-202,-237,237,238]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Suriname"}},{
+    "arcs":[[-203,-239,239]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"French Guiana"}},{
+    "arcs":[[[240,241,242,243,244,245,246,247]],[[248]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"France"}},{
+    "arcs":[[-208,249,-210]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Ecuador"}},{
+    "arcs":[[251]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Jamaica"}},{
+    "arcs":[[252]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Cuba"}},{
+    "arcs":[[-184,253,254,255]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Zimbabwe"}},{
+    "arcs":[[-183,256,257,-254]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Botswana"}},{
+    "arcs":[[-182,258,259,260,-257]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Namibia"}},{
+    "arcs":[[261,262,263,264,265,266,267]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Senegal"}},{
+    "arcs":[[-264,268,269,270,271,272,273]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Mali"}},{
+    "arcs":[[-14,274,-269,-263,275]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Mauritania"}},{
+    "arcs":[[276,277,278,279,280]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Benin"}},{
+    "arcs":[[-132,281,282,-280,283,-271,284,285]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Niger"}},{
+    "arcs":[[-281,-283,286,287]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Nigeria"}},{
+    "arcs":[[-131,288,289,290,291,292,-287,-282]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Cameroon"}},{
+    "arcs":[[-278,293,294,295]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Togo"}},{
+    "arcs":[[-295,296,297,298]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Ghana"}},{
+    "arcs":[[-273,299,-298,300,301,302]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Côte d'Ivoire"}},{
+    "arcs":[[-265,-274,-303,303,304,305,306]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Guinea"}},{
+    "arcs":[[-266,-307,307]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Guinea-Bissau"}},{
+    "arcs":[[-302,308,309,-304]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Liberia"}},{
+    "arcs":[[-305,-310,310]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Sierra Leone"}},{
+    "arcs":[[-272,-284,-279,-296,-299,-300]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Burkina Faso"}},{
+    "arcs":[[-109,311,-289,-130,-122,312]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Central African Rep."}},{
+    "arcs":[[-108,313,314,315,-290,-312]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Congo"}},{
+    "arcs":[[-291,-316,316,317]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Gabon"}},{
+    "arcs":[[-292,-318,318]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Eq. Guinea"}},{
+    "arcs":[[-8,319,320,-255,-258,-261,321,-104]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Zambia"}},{
+    "arcs":[[-7,322,-320]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Malawi"}},{
+    "arcs":[[-6,323,-187,324,-185,-256,-321,-323]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Mozambique"}},{
+    "arcs":[[-186,-325]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"eSwatini"}},{
+    "arcs":[[[-107,325,-314]],[[-105,-322,-260,326]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Angola"}},{
+    "arcs":[[-10,-113,327]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Burundi"}},{
+    "arcs":[[328,329,330,331,332,333,334,335]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Israel"}},{
+    "arcs":[[-335,336,337]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Lebanon"}},{
+    "arcs":[[338]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Madagascar"}},{
+    "arcs":[[-330,339]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Palestine"}},{
+    "arcs":[[-268,340]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Gambia"}},{
+    "arcs":[[341,342,343]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Tunisia"}},{
+    "arcs":[[-13,344,345,-342,346,-285,-270,-275]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Algeria"}},{
+    "arcs":[[-329,347,348,349,350,-331,-340]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Jordan"}},{
+    "arcs":[[351,352,353,354,355]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"United Arab Emirates"}},{
+    "arcs":[[356,357]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Qatar"}},{
+    "arcs":[[358,359,360]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Kuwait"}},{
+    "arcs":[[-349,361,362,363,364,-361,365]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Iraq"}},{
+    "arcs":[[[-355,366,367,368]],[[-353,369]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Oman"}},{
+    "arcs":[[[370]],[[371]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Vanuatu"}},{
+    "arcs":[[372,373,374,375]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Cambodia"}},{
+    "arcs":[[-373,376,377,378,379,380]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Thailand"}},{
+    "arcs":[[-374,-381,381,382,383]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Laos"}},{
+    "arcs":[[-380,384,385,386,387,-382]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Myanmar"}},{
+    "arcs":[[-375,-384,388,389]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Vietnam"}},{
+    "arcs":[[-150,390,391,392,393]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"North Korea"}},{
+    "arcs":[[-392,394]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"South Korea"}},{
+    "arcs":[[-152,395]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Mongolia"}},{
+    "arcs":[[-387,396,397,398,399,400,401,402,403]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"India"}},{
+    "arcs":[[-386,404,-397]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Bangladesh"}},{
+    "arcs":[[-403,405]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Bhutan"}},{
+    "arcs":[[-401,406]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Nepal"}},{
+    "arcs":[[-399,407,408,409,410]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Pakistan"}},{
+    "arcs":[[-70,411,412,-410,413,414]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Afghanistan"}},{
+    "arcs":[[-69,415,416,-412]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Tajikistan"}},{
+    "arcs":[[-63,417,-416,-68]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Kyrgyzstan"}},{
+    "arcs":[[-65,-71,-415,418,419]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Turkmenistan"}},{
+    "arcs":[[-364,420,421,422,423,424,-419,-414,-409,425]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Iran"}},{
+    "arcs":[[-336,-338,426,427,-362,-348]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Syria"}},{
+    "arcs":[[-423,428,429,430,431]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Armenia"}},{
+    "arcs":[[-175,432,433]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Sweden"}},{
+    "arcs":[[-143,434,435,436,437]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Belarus"}},{
+    "arcs":[[-142,438,-167,439,440,441,442,443,444,445,-435]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Ukraine"}},{
+    "arcs":[[-436,-446,446,447,448,449,-160,450]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Poland"}},{
+    "arcs":[[451,452,453,454,455,456,457]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Austria"}},{
+    "arcs":[[-444,458,459,460,461,-452,462]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Hungary"}},{
+    "arcs":[[-442,463]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Moldova"}},{
+    "arcs":[[-441,464,465,466,-459,-443,-464]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Romania"}},{
+    "arcs":[[-437,-451,-162,467,468]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Lithuania"}},{
+    "arcs":[[-144,-438,-469,469,470]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Latvia"}},{
+    "arcs":[[-145,-471,471]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Estonia"}},{
+    "arcs":[[-449,472,-456,473,-241,474,475,476,477,478,479]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Germany"}},{
+    "arcs":[[-466,480,481,482,483,484]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Bulgaria"}},{
+    "arcs":[[[485]],[[-483,486,487,488,489]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"Greece"}},{
+    "arcs":[[[-363,-428,490,491,-430,-421]],[[-482,492,-487]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"Turkey"}},{
+    "arcs":[[-489,493,494,495,496]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Albania"}},{
+    "arcs":[[-461,497,498,499,500,501]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Croatia"}},{
+    "arcs":[[-455,502,-242,-474]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Switzerland"}},{
+    "arcs":[[-475,-248,503]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Luxembourg"}},{
+    "arcs":[[-476,-504,-247,504,505]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Belgium"}},{
+    "arcs":[[-477,-506,506]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Netherlands"}},{
+    "arcs":[[507,508]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Portugal"}},{
+    "arcs":[[-508,509,-245,510]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Spain"}},{
+    "arcs":[[511,512]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Ireland"}},{
+    "arcs":[[513]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"New Caledonia"}},{
+    "arcs":[[[514]],[[515]],[[516]],[[517]],[[518]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Solomon Is."}},{
+    "arcs":[[[519]],[[520]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"New Zealand"}},{
+    "arcs":[[[521]],[[522]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Australia"}},{
+    "arcs":[[523]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Sri Lanka"}},{
+    "arcs":[[[524]],[[-62,-153,-396,-151,-394,525,-389,-383,-388,-404,-406,-402,-407,-400,-411,-413,-417,-418]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"China"}},{
+    "arcs":[[526]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Taiwan"}},{
+    "arcs":[[[-454,527,528,-243,-503]],[[529]],[[530]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"Italy"}},{
+    "arcs":[[[-479,531]],[[532]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"Denmark"}},{
+    "arcs":[[[-513,533]],[[534]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"United Kingdom"}},{
+    "arcs":[[535]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Iceland"}},{
+    "arcs":[[[-139,536,-424,-432,537]],[[-422,-429]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"Azerbaijan"}},{
+    "arcs":[[-140,-538,-431,-492,538]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Georgia"}},{
+    "arcs":[[[539]],[[540]],[[541]],[[542]],[[543]],[[544]],[[545]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Philippines"}},{
+    "arcs":[[[-378,546]],[[-82,547,548,549]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Malaysia"}},{
+    "arcs":[[-549,550]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Brunei"}},{
+    "arcs":[[-453,-462,-502,551,-528]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Slovenia"}},{
+    "arcs":[[-147,552,-433,-174]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Finland"}},{
+    "arcs":[[-445,-463,-458,553,-447]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Slovakia"}},{
+    "arcs":[[-448,-554,-457,-473]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Czechia"}},{
+    "arcs":[[-127,554,555,556]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Eritrea"}},{
+    "arcs":[[[557]],[[558]],[[559]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Japan"}},{
+    "arcs":[[-196,-98,-205]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Paraguay"}},{
+    "arcs":[[-368,560,561]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Yemen"}},{
+    "arcs":[[-350,-366,-360,562,-358,563,-356,-369,-562,564]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Saudi Arabia"}},{
+    "arcs":[[565,566]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"N. Cyprus"}},{
+    "arcs":[[-567,567]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Cyprus"}},{
+    "arcs":[[-345,-16,568]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Morocco"}},{
+    "arcs":[[-125,569,570,-333,571]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Egypt"}},{
+    "arcs":[[-124,-133,-286,-347,-344,572,-570]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Libya"}},{
+    "arcs":[[-115,-120,573,-128,-557,574,575]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Ethiopia"}},{
+    "arcs":[[-556,576,577,-575]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Djibouti"}},{
+    "arcs":[[-116,-576,-578,578]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Somaliland"}},{
+    "arcs":[[-12,579,-111,580,-118]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Uganda"}},{
+    "arcs":[[-11,-328,-112,-580]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Rwanda"}},{
+    "arcs":[[-499,581,582]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Bosnia and Herz."}},{
+    "arcs":[[-484,-490,-497,583,584]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Macedonia"}},{
+    "arcs":[[-460,-467,-485,-585,585,586,-582,-498]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Serbia"}},{
+    "arcs":[[-495,587,-500,-583,-587,588]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Montenegro"}},{
+    "arcs":[[-496,-589,-586,-584]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Kosovo"}},{
+    "arcs":[[589]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Trinidad and Tobago"}},{
+    "arcs":[[-110,-313,-129,-574,-119,-581]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"S. Sudan"}}]}}}
