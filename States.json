@@ -54,7 +54,8 @@
   "arcs":[[-272,-341,-396,-345,-145]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Nevada"}},{
   "arcs":[[396,-326,-189,-334]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Vermont"}},{
   "arcs":[[[397]],[[398]],[[399]],[[400]],[[401]],[[402]],[[403]],[[-262,-321,404,-233]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Louisiana"}},{
-  "arcs":[[[-192,405]],[[406]],[[407]],[[408]],[[-240,-194,409]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Rhode Island"}},"arcs":[[[0]],[[1]],[[2]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Fiji"}},{
+  "arcs":[[[-192,405]],[[406]],[[407]],[[408]],[[-240,-194,409]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Rhode Island"}},{
+  "arcs":[[[0]],[[1]],[[2]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Fiji"}},{
     "arcs":[[3,4,5,6,7,8,9,10,11]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Tanzania"}},{
     "arcs":[[12,13,14,15]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"W. Sahara"}},{
     "arcs":[[[16,17,18,19]],[[20]],[[21]],[[22]],[[23]],[[24]],[[25]],[[26]],[[27]],[[28]],[[29]],[[30]],[[31]],[[32]],[[33]],[[34]],[[35]],[[36]],[[37]],[[38]],[[39]],[[40]],[[41]],[[42]],[[43]],[[44]],[[45]],[[46]],[[47]],[[48]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"Canada"}},{
