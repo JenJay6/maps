@@ -43,7 +43,8 @@
     "arcs":[[-200,-214,233,234]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Venezuela"}},{
     "arcs":[[-201,-235,235,236]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Guyana"}},{
     "arcs":[[-202,-237,237,238]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Suriname"}},{
-    "arcs":[[[-203,-239,239]],[[240,241,242,243,244,245,246,247]],[[248]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"France"}},{
+    "arcs":[[-203,-239,239]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"French Guiana"}},{
+    "arcs":[[[240,241,242,243,244,245,246,247]],[[248]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"France"}},{
     "arcs":[[-208,249,-210]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Ecuador"}},{
     "arcs":[[251]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Jamaica"}},{
     "arcs":[[252]],"type":"Polygon","properties":{"Region":"Rest of World","Country":"Cuba"}},{
@@ -123,7 +124,7 @@
     "arcs":[[-449,472,-456,473,-241,474,475,476,477,478,479]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Germany"}},{
     "arcs":[[-466,480,481,482,483,484]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Bulgaria"}},{
     "arcs":[[[485]],[[-483,486,487,488,489]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"Greece"}},{
-    "arcs":[[[-363,-428,490,491,-430,-421]],[[-482,492,-487]]],"type":"MultiPolygon","properties":{"Region":"Rest of World","Country":"Turkey"}},{
+    "arcs":[[[-363,-428,490,491,-430,-421]],[[-482,492,-487]]],"type":"MultiPolygon","properties":{"Region":"Europe and Canada","Country":"Turkey"}},{
     "arcs":[[-489,493,494,495,496]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Albania"}},{
     "arcs":[[-461,497,498,499,500,501]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Croatia"}},{
     "arcs":[[-455,502,-242,-474]],"type":"Polygon","properties":{"Region":"Europe and Canada","Country":"Switzerland"}},{
