@@ -5,48 +5,50 @@
   "arcs":[[148,149,150,151,152,153]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Colorado"}},{
   "arcs":[[[154]],[[155]],[[156]],[[157]],[[158]],[[159]],[[160]],[[161]],[[162]],[[163,164,-4]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Florida"}},{
   "arcs":[[165,166,167,168,-164,-3]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"GA"}},{
-  "arcs":[[169,170,171,172,173]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Indiana"}},{
-  "arcs":[[174,175,176,-151]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Kansas"}},{
-  "arcs":[[[177]],[[178]],[[179]],[[180]],[[181]],[[182]],[[183]],[[184,185]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Maine"}},{
-  "arcs":[[[186]],[[187]],[[188,189,190,191,192,193,194,195]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Massachusetts"}},{
-  "arcs":[[196,197,198,199,200]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Minnesota"}},{
-  "arcs":[[201,202,203,204,205,206,207]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"New Jersey"}},{
-  "arcs":[[[208]],[[209]],[[210,211,212,-167,213]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"North Carolina"}},{
-  "arcs":[[214,-201,215,216]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"North Dakota"}},{
-  "arcs":[[-152,-177,217,218,219,220]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Oklahoma"}},{
-  "arcs":[[221,222,-204,223,224,225,226]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Pennsylvania"}},{
-  "arcs":[[227,-216,-200,228,229,230]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"South Dakota"}},{
-  "arcs":[[-220,231,232,233,234]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Texas"}},{
-  "arcs":[[-231,235,-149,236,237,238]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Wyoming"}},{
-  "arcs":[[-195,239,240,241]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Connecticut"}},{
-  "arcs":[[242,243,244,245,246,247,248,-218,-176,249]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Missouri"}},{
-  "arcs":[[250,-226,251,252,253]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"West Virginia"}},{
-  "arcs":[[254,255,256,-174,257,-244]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Illinois"}},{
-  "arcs":[[-153,-221,-235,258,-147]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"New Mexico"}},{
-  "arcs":[[-249,259,260,261,-232,-219]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Arkansas"}},{
-  "arcs":[[[262]],[[263]],[[264]],[[265]],[[266]],[[267]],[[268]],[[269]],[[270,271,-144,272]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"California"}},{
-  "arcs":[[-224,-203,273,274]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Delaware"}},{
-  "arcs":[[275,276]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"District of Columbia"}},{
-  "arcs":[[[277]],[[278]],[[279]],[[280]],[[281]],[[282]],[[283]],[[284]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Hawaii"}},{
-  "arcs":[[-199,285,-255,-243,286,-229]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Iowa"}},{
-  "arcs":[[[-258,-173,287,-254,288,289,-245]],[[290,-247]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Kentucky"}},{
-  "arcs":[[[291,292]],[[293]],[[294]],[[-225,-275,295,296,297,298,-276,299,-252]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Maryland"}},{
-  "arcs":[[[300]],[[301]],[[302]],[[303]],[[304]],[[305]],[[306]],[[307]],[[308]],[[309,310,-171]],[[311]],[[312,313]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Michigan"}},{
-  "arcs":[[[314]],[[315]],[[316]],[[317]],[[-261,318,-6,319,320]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Mississippi"}},{
-  "arcs":[[321,-217,-228,-239,322]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Montana"}},{
-  "arcs":[[323,-185,324,-190,325]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"New Hampshire"}},{
-  "arcs":[[[326]],[[327]],[[328]],[[329,-207]],[[330]],[[331]],[[332,333,-196,-242,334,-205,-223]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"New York"}},{
-  "arcs":[[[335]],[[336]],[[-311,337,-227,-251,-288,-172]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Ohio"}},{
-  "arcs":[[338,339,340,-271,341]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Oregon"}},{
-  "arcs":[[-248,-291,-246,-290,342,-214,-166,-2,-319,-260]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Tennessee"}},{
-  "arcs":[[343,-237,-154,-146,344]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Utah"}},{
-  "arcs":[[[345]],[[-297,346]],[[347,-292]],[[-253,-300,-277,-299,348,-211,-343,-289]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Virginia"}},{
-  "arcs":[[[349]],[[350]],[[351]],[[352]],[[353]],[[354]],[[355]],[[356]],[[357]],[[358]],[[359,-339,360]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Washington"}},{
-  "arcs":[[[361]],[[362]],[[363]],[[364]],[[365]],[[366]],[[367]],[[368]],[[369]],[[370]],[[371,-314,372,-256,-286,-198]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Wisconsin"}},{
-  "arcs":[[[373]],[[374]],[[375]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"American Samoa"}},{
-  "arcs":[[376]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Guam"}},{
-  "arcs":[[[377]],[[378]],[[379]],[[380]],[[381]],[[382]],[[383]],[[384]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Commonwealth of the Northern Mariana Islands"}},{
-  "arcs":[[-230,-287,-250,-175,-150,-236]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Nebraska"}},{
-  "arcs":[[-213,385,-168]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"South Carolina"}},{
-  "arcs":[[[386]],[[387]],[[388]],[[389]],[[390]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Puerto Rico"}},{
+  "arcs":[[169,170,171,172,173,174]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Indiana"}},{
+  "arcs":[[175,176,177,-151]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Kansas"}},{
+  "arcs":[[[178]],[[179]],[[180]],[[181]],[[182]],[[183]],[[184]],[[185,186]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Maine"}},{
+  "arcs":[[[187]],[[188]],[[189,190,191,192,193,194,195,196]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Massachusetts"}},{
+  "arcs":[[197,198,199,200,201]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Minnesota"}},{
+  "arcs":[[202,203,204,205,206,207,208]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"New Jersey"}},{
+  "arcs":[[[209]],[[210]],[[211,212,213,-167,214]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"North Carolina"}},{
+  "arcs":[[215,-202,216,217]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"North Dakota"}},{
+  "arcs":[[-152,-178,218,219,220,221]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Oklahoma"}},{
+  "arcs":[[222,223,-205,224,225,226,227]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Pennsylvania"}},{
+  "arcs":[[228,-217,-201,229,230,231]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"South Dakota"}},{
+  "arcs":[[-221,232,233,234,235]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Texas"}},{
+  "arcs":[[-232,236,-149,237,238,239]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Wyoming"}},{
+  "arcs":[[-196,240,241,242]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Connecticut"}},{
+  "arcs":[[243,244,245,246,247,248,249,-219,-177,250]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Missouri"}},{
+  "arcs":[[251,-227,252,253,254]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"West Virginia"}},{
+  "arcs":[[255,256,257,-175,-174,258,-245]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Illinois"}},{
+  "arcs":[[-153,-222,-236,259,-147]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"New Mexico"}},{
+  "arcs":[[-250,260,261,262,-233,-220]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Arkansas"}},{
+  "arcs":[[[263]],[[264]],[[265]],[[266]],[[267]],[[268]],[[269]],[[270]],[[271,272,-144,273]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"California"}},{
+  "arcs":[[-225,-204,274,275]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Delaware"}},{
+  "arcs":[[276,277]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"District of Columbia"}},{
+  "arcs":[[[278]],[[279]],[[280]],[[281]],[[282]],[[283]],[[284]],[[285]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Hawaii"}},{
+  "arcs":[[-200,286,-256,-244,287,-230]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Iowa"}},{
+  "arcs":[[[-259,-173,288,-255,289,290,-246]],[[291,-248]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Kentucky"}},{
+  "arcs":[[[292,293]],[[294]],[[295]],[[-226,-276,296,297,298,299,-277,300,-253]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Maryland"}},{
+  "arcs":[[[301]],[[302]],[[303]],[[304]],[[305]],[[306]],[[307]],[[308]],[[309]],[[310,311,-171]],[[312]],[[313,314]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Michigan"}},{
+  "arcs":[[[315]],[[316]],[[317]],[[318]],[[-262,319,-6,320,321]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Mississippi"}},{
+  "arcs":[[322,-218,-229,-240,323]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Montana"}},{
+  "arcs":[[324,-186,325,-191,326]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"New Hampshire"}},{
+  "arcs":[[[327]],[[328]],[[329]],[[330,-208]],[[331]],[[332]],[[333,334,-197,-243,335,-206,-224]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"New York"}},{
+  "arcs":[[[336]],[[337]],[[-312,338,-228,-252,-289,-172]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Ohio"}},{
+  "arcs":[[339,340,341,-272,342]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Oregon"}},{
+  "arcs":[[-249,-292,-247,-291,343,-215,-166,-2,-320,-261]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Tennessee"}},{
+  "arcs":[[344,-238,-154,-146,345]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Utah"}},{
+  "arcs":[[[346]],[[-298,347]],[[348,-293]],[[-254,-301,-278,-300,349,-212,-344,-290]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Virginia"}},{
+  "arcs":[[[350]],[[351]],[[352]],[[353]],[[354]],[[355]],[[356]],[[357]],[[358]],[[359]],[[360,-340,361]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Washington"}},{
+  "arcs":[[[362]],[[363]],[[364]],[[365]],[[366]],[[367]],[[368]],[[369]],[[370]],[[371]],[[372,-315,373,-257,-287,-199]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Wisconsin"}},{
+  "arcs":[[-231,-288,-251,-176,-150,-237]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Nebraska"}},{
+  "arcs":[[-214,374,-168]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"South Carolina"}},{
+  "arcs":[[[375]],[[376]],[[377]],[[378]],[[379]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Puerto Rico"}},{
+  "arcs":[[-361,380,-324,-239,-345,381,-341]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Idaho"}},{
+  "arcs":[[-273,-342,-382,-346,-145]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Nevada"}},{
+  "arcs":[[382,-327,-190,-335]],"type":"Polygon","properties":{"Region":"United States","Country":"United States","State":"Vermont"}},{
+  "arcs":[[[383]],[[384]],[[385]],[[386]],[[387]],[[388]],[[389]],[[-263,-322,390,-234]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Louisiana"}},{
+  "arcs":[[[-193,391]],[[392]],[[393]],[[394]],[[-241,-195,395]]],"type":"MultiPolygon","properties":{"Region":"United States","Country":"United States","State":"Rhode Island"}},
   "arcs":[[[396]],[[397]],[[398]],[[399]],[[400]],[[401]],[[402]],[[403]],[[404]],[[405]],[[406]],[[407]],[[408]],[[409]],[[410]],[[411]],[[412]],[[413]],[[414],[446]],[[415,416]],[[417]],[[418]],[[419]],[[420]],[[421]],[[422]],[[423]],[[424]],[[425]],[[426]],[[427]],[[428]],[[429]],[[430]],[[431]],[[432]],[[433]],[[434]],[[435]],[[436]],[[437]],[[438]],[[439]],[[440]],[[441]],[[442]],[[443]],[[444]],[[445]],[[447]],[[448]],[[449]],[[450]],[[451]],[[452]],[[453]],[[454]],[[455]],[[456]],[[457]],[[458]],[[459]],[[460]],[[461]],[[462]],[[463]],[[464]],[[465]],[[466]],[[467]],[[468]],[[469]],[[470]],[[471]],[[472]],[[473]],[[474]],[[475]],[[476]],[[477]],[[478]],[[479]],[[480]],[[481]],[[482]],[[483]],[[484]],[[485]],[[486]],[[487]],[[488]],[[489]],[[490]],[[491]],[[492]],[[493]],[[494]],[[495]],[[496]],[[497]],[[498]],[[499]],[[500]],[[501]],[[502]],[[503]],[[504]],[[505]],[[506]],[[507]],[[508]],[[509]],[[510]],[[511]],[[512]],[[513]],[[514]],[[515]],[[516]],[[517]],[[518]],[[519]],[[520]],[[521]],[[522]]],"type":"MultiPolygon","properties":{"Region":"ex-US","Country":"ex-US","State":"ex-US"}}]}}}
